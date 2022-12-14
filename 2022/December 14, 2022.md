@@ -18,7 +18,7 @@
 
 ### Potential blind spots to remember:
 
-- We have to know what and where we want to be, even if that changes over time.
+- We have to know what we want to do and where we want to be, even if that changes over time.
 - You need to think things through *some*. This isn't about skipping valid concerns. Even firefighters walk.
 - Documentation is important to others who will participate and follow later. Just find the balance.
 - When we learn the detail, capture the detail.

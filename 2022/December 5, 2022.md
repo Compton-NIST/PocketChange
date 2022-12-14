@@ -12,7 +12,7 @@
 
 - Identify the issue you are having, or the problem you are facing.
 - Establish an expected outcome.
-- Seek Knowledge to fill the gap.
+- Seek knowledge to fill the gap.
 - Apply to your own simulated use case.
 - Incorporate into practice.
 - Reassess your knowledge.
